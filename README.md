@@ -1,5 +1,9 @@
 # Flight Booking System
 
+## Live
+The deployed application can be fetched at [flights.keshavcarpenter.tech]( https://flights.keshavcarpenter.tech/api/v1/info).
+Please refer to the Postman Docs to understand the APIs and try out [Postman Collection](https://documenter.getpostman.com/view/27853841/2sA3XJmkR8)
+
 ## Description
 This is an Airline managemnet and flight booking system based on microservices architecture. It has 4 microservices:
 1. Flight Service
